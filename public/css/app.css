@@ -267,6 +267,12 @@ nav {
   border: solid 2px gray;
 }
 
+.Sct6 {
+  background-image: url("../images/main_bg.jpg");
+  width: 100%;
+  height: 400px;
+}
+
 /*!
  * Bootstrap v4.5.0 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
