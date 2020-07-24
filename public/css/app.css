@@ -194,6 +194,7 @@ nav {
 .Sct3_img span {
   color: danger;
 }
+
 .Sct4 {
   position: relative;
   background-image: url("../images/main_bg.jpg");
@@ -249,6 +250,21 @@ nav {
   height: 300px;
   border-radius: 25px;
   border: grey solid 10px;
+}
+
+.Sct5 {
+  background-image: url("../images/testimonials_background.jpg");
+  height: 500px;
+  width: 100%;
+  color: white;
+}
+.Sct5 .Sct5_col {
+  border: solid 1px gray;
+  border-radius: 15px;
+}
+.Sct5 .img_logo {
+  border-radius: 100px;
+  border: solid 2px gray;
 }
 
 /*!
